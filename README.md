@@ -6,11 +6,11 @@ An IoT-based smart parking system combining vehicle safety alerts, real-time par
 
 1. Hardware Prototype
 
-"Smart Parking Hardware" (images/1000123772.jpg)
+"Smart Parking Hardware" (1000123772.jpg)
 
 2. Smart Parking Dashboard
 
-"Smart Parking Dashboard" (images/1000123774.jpg)
+"Smart Parking Dashboard" ()
 
 ✨ Features
 
