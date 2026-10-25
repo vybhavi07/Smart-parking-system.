@@ -2,15 +2,6 @@
 
 An IoT-based smart parking system combining vehicle safety alerts, real-time parking slot monitoring, and an online booking dashboard.
 
-📸 Project Demo
-
-1. Hardware Prototype
-
-![Hardware Prototype](images/1000123772.jpg)
-2.prototype
-
-![Smart Parking Dashboard](images/1000123774.jpg)
-
 "Smart Parking Dashboard" ()
 
 ✨ Features
