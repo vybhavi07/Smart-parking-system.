@@ -7,12 +7,11 @@ An IoT-based smart parking system combining vehicle safety alerts, real-time par
 
 🔧 Hardware Prototype
 
-"Smart Parking Hardware Prototype" (https://github.com/vybhavi07/Smart-parking-system./raw/refs/heads/main/WhatsApp%20Image%202026-10-25%20at%202.06.13%20PM.jpeg)
+"Smart Parking Hardware Prototype" (https://github.com/vybhavi07/Smart-parking-system./blob/main/WhatsApp%20Image%202026-10-25%20at%202.06.13%20PM.jpeg?raw=true)
 
 💻 Smart Parking Dashboard
 
-"Smart Parking Dashboard" (https://github.com/vybhavi07/Smart-parking-system./raw/refs/heads/main/WhatsApp%20Image%202026-10-25%20at%202.05.31%20PM.jpeg)
-
+"Smart Parking Dashboard" (https://github.com/vybhavi07/Smart-parking-system./blob/main/WhatsApp%20Image%202026-10-25%20at%202.05.31%20PM.jpeg?raw=true)
 ✨ Features
 
 - 🚘 Ultrasonic-based vehicle distance detection
